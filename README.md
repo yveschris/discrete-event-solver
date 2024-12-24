@@ -29,5 +29,5 @@ I'm committed to this simulator to make sure that it will be a ready computer ne
 ## How to use this computer network simulator?
 1. the Cython codes are compiled using Python 3.11.9. Therefore, in order to run the simulation properly, you may have to use Python 3.11.9, which can be downloaded on https://www.python.org/downloads/release/python-3119/
 2. install the required modules using pip (only numpy, matplotlib, networkx and requests modules are required).
-3. run netsim_client.py in the computer_network_simulator_in_python folder
+3. download the repo (don't be panic, only 200 KBytes) and then run netsim_client.py in the computer_network_simulator_in_python folder
 4. that's it! Enjoy!
