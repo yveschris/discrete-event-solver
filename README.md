@@ -9,7 +9,7 @@ Such a solver is new (i.e., no such solvers exist in the world before), and more
 I'm committed to this simulator to make sure that it will be a real computer network simulator and other types of simulators based on this discrete-event simulator. 
 
 ## TO DO:
-1. to improve the server side's response performance
+1. to improve the server side's response performance (est. 2025 First quarter)
 2. https
 3. scaling law problem
 4. tcp capability
@@ -17,7 +17,7 @@ I'm committed to this simulator to make sure that it will be a real computer net
 6. animation
 
 ## How to use this computer network simulator?
-1. the Cython codes are compiled using Python 3.11.9. Therefore, in order to run the simulation properly, you may have to use Python 3.11.9, which can be downloaded in https://www.python.org/downloads/release/python-3119/
-2. install the required modules using pip (only numpy, matplotlib and networkx and required).
+1. the Cython codes are compiled using Python 3.11.9. Therefore, in order to run the simulation properly, you may have to use Python 3.11.9, which can be downloaded on https://www.python.org/downloads/release/python-3119/
+2. install the required modules using pip (only numpy, matplotlib and networkx modules are required).
 3. run netsim_client.py in the computer_network_simulator_in_python folder
 4. that's it! Enjoy!
