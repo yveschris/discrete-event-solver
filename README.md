@@ -23,7 +23,8 @@ I'm committed to this simulator to make sure that it will be a ready computer ne
 4. tcp capability
 5. dynamic routing
 6. animation
-7. GPU-enabled, which may speed up the performance by 100x (in experimental stage).
+7. GPU-enabled, which may speed up the performance by 100x (in experimental stage)
+8. optimization
 
 ## How to use this computer network simulator?
 1. the Cython codes are compiled using Python 3.11.9. Therefore, in order to run the simulation properly, you may have to use Python 3.11.9, which can be downloaded on https://www.python.org/downloads/release/python-3119/
