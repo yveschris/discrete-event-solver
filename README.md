@@ -1,7 +1,7 @@
 # World's First Discrete Event Solver
 
 I became a researcher on telecom/computer network performance when I did my PhD in 2008. During my research, I always find existing network simulators hard to use in terms of 
-1. installation procedures: I don't have a computer science background so compiling a big C++ project is a nightmare for me;
+1. installation procedures: compiling a big C++ project is a nightmare for me (I don't have a computer science background);
 2. code readability: just too many C++ codes;
 3. runtime performance: based on my definition, I consider the runtime performance to be poor;
 4. customization of the codes: I have to debug the codes and then compile the C++ project again and again.
