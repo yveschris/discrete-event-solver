@@ -36,7 +36,7 @@ start_time = np.float64(0)
 end_time = np.float64(1e3)
 
 attmt_assumpt = 'evenly'
-topotype = 'tworouter'
+topotype = 'grid'
 
 A, Aspds, Adrps, ur, vh, router_num, host_num = genA(topotype, edge_spds_r, dropprobs_r, router_num,
     host_num, attmt_assumpt, edge_spds_rh, dropprobs_rh)
