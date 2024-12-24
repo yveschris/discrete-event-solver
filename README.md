@@ -1,8 +1,10 @@
 # world's first discrete event solver
 computer_network_simulator_in_python: computer network simulator using discrete event solver.
 
-Such a simulator has two major advantages:
-1. super fast: it's supposed to be at least 100x faster than the conventional network simulators that use discrete event simulation
+I work on network performance and always find network simulators hard to use in terms of code readability and runtime performance. I decided to develop a simulator based on Lindley equation (which is the core of queueing theory), in September 2021. 
+
+I call this type of simulation ``discrete event solver''. Such a solver has two major advantages comparing to the conventional discrete event simulation:
+1. super fast: it's supposed to be at least 100x faster than the conventional network simulators;
 2. super easy to read and super simple to develop your own ideas: the codes are written in Python and the total line number is less than 1k.
 
 I'm committed to this simulator to make sure that it will be a real computer network simulator and other types of simulators based on this discrete-event simulator. Enjoy!
@@ -16,4 +18,5 @@ TO DO:
 6. animation
 
 ## usage
-run netsim_client.py in the computer_network_simulator_in_python folder
+1. the Cython codes are compiled using Python 3.11.9. Therefore, in order to run the simulation properly, you may have to use Python 3.11.9, which can be downloaded in https://www.python.org/downloads/release/python-3119/
+2. run netsim_client.py in the computer_network_simulator_in_python folder
