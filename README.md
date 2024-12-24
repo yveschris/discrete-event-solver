@@ -1,10 +1,11 @@
 # World's First Discrete Event Solver
 
-I became a researcher on telecom/computer network performance when I did my PhD in 2008. During my research, I always find existing network simulators hard to use in terms of code readability and runtime performance. In September 2021, I decided to develop a simulator (that I love to use) based on Lindley's equation (a core math equation in queueing theory); and I call this type of simulation **discrete event solver**.
+I became a researcher on telecom/computer network performance when I did my PhD in 2008. During my research, I always find existing network simulators hard to use in terms of 1) installation procedures (I don't have a computer science background so compiling a big C++ project is a nightmare for me), 2) code readability (just too many C++ codes) and 3) runtime performance (based on my definition, I consider the runtime performance is poor). In September 2021, I decided to develop a simulator (that I love to use) based on Lindley's equation (a core math equation in queueing theory); and I call this type of simulation **discrete event solver**.
 
-Such a solver is new (i.e., no such solvers exist in the world before), and more importantly, it has two **BIG** advantages comparing to the conventional discrete event simulation:
-1. super fast: it's supposed to be at least 100x faster than the conventional network simulators;
-2. super easy to read and super simple to develop your own ideas: the codes are written in Python and the total line number is less than 1k.
+Such a solver is new (i.e., no such solvers exist in the world before), and more importantly, it has three **BIG** advantages comparing to the conventional discrete event simulation:
+1. no installation required;
+2. super fast: it's supposed to be at least 100x faster than the conventional network simulators;
+3. super easy to read and super simple to develop your own ideas: the codes are written in Python and the total line number is less than 1k.
 
 I'm committed to this simulator to make sure that it will be a real computer network simulator and other types of simulators based on this discrete-event simulator. 
 
