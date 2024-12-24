@@ -8,7 +8,7 @@ I became a researcher on telecom/computer network performance when I did my PhD 
 
 In September 2021, I decided to develop a simulator (that I love to use) based on Lindley's equation (a core math equation in queueing theory); and I call this type of simulation **discrete event solver**.
 
-Such a solver is new (i.e., no such solvers exist in the world before), and more importantly, it relieves the above **four** pains comparing to the conventional discrete event simulation:
+Such a solver is new (i.e., no such solvers exist in the world before), and more importantly, it completely relieves the pains for me comparing to the conventional discrete event simulation:
 1. no installation required;
 2. super easy to read: the codes are written in Python and the total line number is less than 1k;
 3. super fast: it's supposed to be at least 100x faster than the conventional network simulators;
