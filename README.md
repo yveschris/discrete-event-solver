@@ -1,6 +1,6 @@
 # World's First Discrete Event Solver
 
-I work on network performance and always find network simulators hard to use in terms of code readability and runtime performance. I decided to develop a simulator based on Lindley equation (which is the core of queueing theory), in September 2021, and I call this type of simulation **discrete event solver**.
+I've been a researcher on telecom/computer network performance since 2007 and always find network simulators hard to use in terms of code readability and runtime performance. I decided to develop a simulator based on Lindley equation (which is the core of queueing theory), in September 2021, and I call this type of simulation **discrete event solver**.
 
 Such a solver is new (i.e., no such solvers exist in the world before), and more importantly, it has two **BIG** advantages comparing to the conventional discrete event simulation:
 1. super fast: it's supposed to be at least 100x faster than the conventional network simulators;
