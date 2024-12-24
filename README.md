@@ -14,7 +14,7 @@ Such a solver is new (i.e., no such solvers exist in the world before), and more
 3. super fast: it's supposed to be at least 100x faster than the conventional network simulators;
 4. super simple to develop your own ideas: life is short, code Python.
 
-I'm committed to this simulator to make sure that it will be a ready computer network simulator for everyone and will transform to other types of simulators based on this discrete-event simulator, like hospital simulation, road traffic simulation and so on.
+I'm committed to this simulator to make sure that it will be a ready computer network simulator for everyone and will be transformed to other types of simulators based on this discrete-event simulator, like hospital simulation, road traffic simulation and so on.
 
 ## TO DO:
 1. to improve the server side's response performance (est. 2025 First quarter)
