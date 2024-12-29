@@ -20,6 +20,7 @@ The **computer network simulator** is an application of the discrete event solve
 8. optimization
 
 ## How to use this computer network simulator?
+0. only work on Windows platform
 1. the Cython codes are compiled using Python 3.11.9. Therefore, in order to run the simulation properly, you may have to use Python 3.11.9, which can be downloaded on https://www.python.org/downloads/release/python-3119/
 2. install the required modules using pip (only numpy, matplotlib, networkx and requests modules are required).
 3. download the repo (don't be panic, only 408 KBytes) and then run netsim_client.py in the computer_network_simulator_in_python folder
