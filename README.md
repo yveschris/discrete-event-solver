@@ -7,7 +7,7 @@ The world's first **discrete event solver** is a new type of discrete-event simu
 3. super fast: it's supposed to be at least 100x faster than the conventional network simulators;
 4. super simple to develop your own ideas: life is short, code Python.
 
-The computer network simulator is one application of this discrete event solver an it will be continuously improved to be a ready computer network simulator for everyone. More importantly, other types of simulators based on this solver will be invented in the future, like hospital simulation, road traffic simulation and so on.
+The **computer network simulator** is an application of the discrete event solver and will be continuously improved to be a ready computer network simulator for everyone. More importantly, other types of simulation based on this solver will be invented in the near future, like hospital simulation, road traffic simulation and so on.
 
 ## TO DO:
 1. to improve the server side's response performance (est. 2025 First quarter)
