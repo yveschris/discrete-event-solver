@@ -1,6 +1,6 @@
 # World's First Discrete Event Solver
 
-The **discrete event solver** is a new type of discrete-event simulation (No such solvers exist in the world before) that is based on Lindley's equation (a core math equation in queueing theory). It has the following advantages comparing to the conventional discrete event simulation:
+The world's first **discrete event solver** is a new type of discrete-event simulation (No such solvers exist in the world before) that is based on Lindley's equation (a core math equation in queueing theory). It has the following advantages comparing to the conventional discrete event simulation:
 
 1. no installation required;
 2. super easy to read: the codes are written in Python and the total line number is less than 1k;
